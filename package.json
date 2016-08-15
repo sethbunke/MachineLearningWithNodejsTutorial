@@ -1,0 +1,27 @@
+{
+  "name": "machine_learning_with_nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "machine learning with nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethbunke/MachineLearningWithNodejsTutorial.git"
+  },
+  "keywords": [
+    "nodjs",
+    "machine",
+    "learning"
+  ],
+  "author": "Seth Bunke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethbunke/MachineLearningWithNodejsTutorial/issues"
+  },
+  "homepage": "https://github.com/sethbunke/MachineLearningWithNodejsTutorial#readme",
+  "dependencies": {
+    "machine_learning": "0.0.8"
+  }
+}
